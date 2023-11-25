@@ -1,0 +1,70 @@
+D:\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+D:\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessModels.dll
+D:\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+D:\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+D:\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessModels.pdb
+D:\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+D:\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+D:\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+D:\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Panneerselvam\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+D:\Panneerselvam\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Panneerselvam\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Panneerselvam\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessModels.dll
+D:\Panneerselvam\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+D:\Panneerselvam\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+D:\Panneerselvam\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessModels.pdb
+D:\Panneerselvam\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+D:\Panneerselvam\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\Panneerselvam\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+D:\Panneerselvam\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Panneerselvam\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+D:\Panneerselvam\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Panneerselvam\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\padhmapriya\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\padhmapriya\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\padhmapriya\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\padhmapriya\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessModels.dll
+C:\padhmapriya\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\padhmapriya\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\padhmapriya\DWI\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessModels.pdb
+C:\padhmapriya\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\padhmapriya\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\padhmapriya\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\padhmapriya\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\padhmapriya\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\padhmapriya\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\padhmapriya\DWI\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessModels.dll
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessModels.pdb
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessModels.dll
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessModels.pdb
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
