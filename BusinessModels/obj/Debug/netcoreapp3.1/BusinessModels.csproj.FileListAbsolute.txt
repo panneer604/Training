@@ -1,0 +1,44 @@
+D:\DWI\backend\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.deps.json
+D:\DWI\backend\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.dll
+D:\DWI\backend\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.pdb
+D:\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.csproj.AssemblyReference.cache
+D:\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.AssemblyInfoInputs.cache
+D:\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.AssemblyInfo.cs
+D:\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.csproj.CoreCompileInputs.cache
+D:\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.dll
+D:\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.pdb
+D:\Panneerselvam\DWI\backend\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.deps.json
+D:\Panneerselvam\DWI\backend\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.dll
+D:\Panneerselvam\DWI\backend\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.pdb
+D:\Panneerselvam\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.csproj.AssemblyReference.cache
+D:\Panneerselvam\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.AssemblyInfoInputs.cache
+D:\Panneerselvam\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.AssemblyInfo.cs
+D:\Panneerselvam\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.csproj.CoreCompileInputs.cache
+D:\Panneerselvam\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.dll
+D:\Panneerselvam\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.pdb
+C:\padhmapriya\DWI\backend\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.deps.json
+C:\padhmapriya\DWI\backend\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.dll
+C:\padhmapriya\DWI\backend\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.pdb
+C:\padhmapriya\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.csproj.AssemblyReference.cache
+C:\padhmapriya\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.AssemblyInfoInputs.cache
+C:\padhmapriya\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.AssemblyInfo.cs
+C:\padhmapriya\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.csproj.CoreCompileInputs.cache
+C:\padhmapriya\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.dll
+C:\padhmapriya\DWI\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.pdb
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.deps.json
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.dll
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.pdb
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.csproj.AssemblyReference.cache
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.AssemblyInfoInputs.cache
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.AssemblyInfo.cs
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.csproj.CoreCompileInputs.cache
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.dll
+D:\Panneerselvam\DWI\backend (1)\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.pdb
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.deps.json
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.dll
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.pdb
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.AssemblyInfoInputs.cache
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.AssemblyInfo.cs
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.csproj.CoreCompileInputs.cache
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.dll
+C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.pdb
